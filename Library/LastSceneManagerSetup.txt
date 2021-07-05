@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/ZZZ_MyData/Scenes/OdulluReklamSuresiz.unity
+- path: Assets/ZZZ_MyData/Scenes/ZZZ_OdulluReklamSureli.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

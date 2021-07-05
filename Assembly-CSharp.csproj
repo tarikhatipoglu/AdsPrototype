@@ -60,6 +60,7 @@
     <Compile Include="Assets\ZZZ_MyData\Scripts\ReklamBaslatici.cs" />
     <Compile Include="Assets\ZZZ_MyData\Scripts\CheckInternet.cs" />
     <Compile Include="Assets\ZZZ_MyData\Scripts\GiveCoins.cs" />
+    <Compile Include="Assets\ZZZ_MyData\Scripts\DailyRewardSystem.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\GoogleMobileAds\GoogleMobileAds.Common.dll" />
